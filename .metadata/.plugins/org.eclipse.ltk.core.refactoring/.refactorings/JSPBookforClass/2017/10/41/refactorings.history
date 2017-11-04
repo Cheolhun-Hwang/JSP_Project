@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HelloWorld.jsp&apos; to &apos;ch03&apos;&#x0D;&#x0A;- Original project: &apos;JSPBookforClass&apos;&#x0D;&#x0A;- Destination element: &apos;ch03&apos;&#x0D;&#x0A;- Original element: &apos;HelloWorld.jsp&apos;" description="Copy file" element1="WebContent/ch03/HelloWorld.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1507681651955" target="/JSPBook/WebContent/ch03" units="0" version="1.0"/>
+</session>
